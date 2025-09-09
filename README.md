@@ -1,66 +1,70 @@
-# 🎉 Site Cartão de Boas-Vindas
+# 🎒 Volta às Aulas - Cartão de Boas-Vindas
 
-Bem-vindo ao repositório do **Site Cartão de Boas-Vindas** do Colégio Presbiteriano de Presidente Prudente!  
-
-Aqui você encontra o projeto do site criado para dar as boas-vindas aos alunos na volta às aulas com muito carinho e animação. ✨🎒
+Este é o site oficial do **Cartão de Boas-Vindas** do Colégio Presbiteriano de Presidente Prudente, criado especialmente para celebrar a volta às aulas dos alunos com muita alegria e motivação! 🎉📚
 
 ---
 
-## 🚀 Sobre o projeto
+## 🚀 Sobre o Projeto
 
-Este site foi desenvolvido para celebrar o retorno às aulas, com um cartão interativo que traz mensagens especiais para os alunos, promovendo um ambiente acolhedor e motivador. 🎈📚
-
----
-
-## 🔗 Link para o site online
-
-Acesse o site hospedado na Netlify clicando aqui:  
-🌐 [https://volta-as-aulas-colegio-presbiteriano.netlify.app/](https://volta-as-aulas-colegio-presbiteriano.netlify.app/)
+Com o fim das férias, nada melhor do que receber os alunos com uma mensagem calorosa e um cartão digital cheio de animações e surpresas!  
+Este site foi desenvolvido para tornar a retomada das aulas ainda mais especial, estimulando o entusiasmo e o sentimento de pertencimento dos estudantes. ✨👩‍🏫👨‍🏫
 
 ---
 
-## 🛠 Tecnologias utilizadas
+## 🌐 Acesse o Site
 
-- HTML5  
-- CSS3  
-- JavaScript (se aplicável)  
-- Animações com GIFs  
-- Áudio para interação (MP3)
+Confira o cartão de boas-vindas online, hospedado na Netlify:  
+👉 [https://volta-as-aulas-colegio-presbiteriano.netlify.app/](https://volta-as-aulas-colegio-presbiteriano.netlify.app/)
 
 ---
 
-## 📂 Estrutura do projeto
+## 🛠 Tecnologias e Stacks de Desenvolvimento
 
-- `index.html` - Página principal  
+- **Frontend:** HTML5, CSS3, JavaScript  
+- **Animações:** GIFs animados e vídeos MP4  
+- **Áudio:** Arquivos MP3 para ambientação sonora  
+- **Hospedagem:** Netlify  
+- **Controle de Versão:** Git e GitHub
+
+---
+
+## 📁 Estrutura do Projeto
+
+- `index.html` - Página principal do cartão  
 - `favicon.ico` - Ícone do site  
-- `logo-presbiteriano.png` - Logo da instituição  
-- `boasvindas.mp4` - Vídeo de boas-vindas  
-- `school-building.gif` - Animação da escola  
-- `presente.gif` - Animação do presente  
-- `uplifting-ukulele.mp3` - Música de fundo
+- `logo-presbiteriano.png` - Logo oficial do colégio  
+- `boasvindas.mp4` - Vídeo animado de boas-vindas  
+- `school-building.gif` - Animação temática da escola  
+- `presente.gif` - Animação surpresa do presente  
+- `uplifting-ukulele.mp3` - Música ambiente para recepção
 
 ---
 
-## 🤝 Como contribuir
+## 🤝 Como Contribuir
+
+Contribuições são bem-vindas! Para colaborar:
 
 1. Faça um fork deste repositório  
-2. Crie uma branch para sua feature (`git checkout -b feature/nova-feature`)  
-3. Faça commit das suas alterações (`git commit -m 'Adiciona nova feature'`)  
-4. Envie para o repositório remoto (`git push origin feature/nova-feature`)  
-5. Abra um pull request
+2. Crie uma branch para sua modificação (`git checkout -b minha-branch`)  
+3. Faça commit das suas alterações (`git commit -m "Descrição da mudança"`)  
+4. Envie para o seu fork (`git push origin minha-branch`)  
+5. Abra um Pull Request para revisão
 
 ---
 
 ## 📞 Contato
 
-Para dúvidas ou sugestões, entre em contato com a equipe do Colégio Presbiteriano de Presidente Prudente.
+Dúvidas ou sugestões? Entre em contato com a equipe do Colégio Presbiteriano de Presidente Prudente.
 
 ---
 
 ## 🙏 Agradecimentos
 
-Obrigado por visitar e apoiar este projeto! Esperamos que o site traga muita alegria e boas-vindas para os alunos! 🎉✨
+Obrigado por fazer parte deste momento especial da volta às aulas! Que este cartão ajude a deixar o retorno mais leve e animado para todos os alunos! 🎈🎓
 
 ---
 
-*Feito com ❤️ pelo Colégio Presbiteriano de Presidente Prudente*
+### Desenvolvedor
+
+Feito com ❤️ por **Diego Lima de Oliveira**  
+✉️ Email: [diego.dromer@hotmail.com](mailto:diego.dromer@hotmail.com)
