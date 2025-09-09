@@ -40,6 +40,21 @@ Confira o cartão de boas-vindas online, hospedado na Netlify:
 
 ---
 
+## 🧠 Funcionalidades Futuras
+
+### 🔊 Controle inteligente da música de fundo
+
+- ✅ Ao final do vídeo, a **música de fundo deve começar automaticamente**, e o **ícone da música** precisa refletir esse estado (ativo).
+  
+- 🔁 Se o usuário clicar no player para **assistir o vídeo novamente**, a **música de fundo deve ser pausada** e o **ícone da música** deve indicar que está mutada.
+
+- 🎵 Quando o vídeo terminar novamente, a **música volta a tocar automaticamente** e o **ícone da música** deve retornar ao estado original (ativo).
+
+- ❗ Importante:  
+  Caso o usuário tenha **mutado manualmente** a música antes do vídeo terminar, **o sistema não deve reativar a música automaticamente** nem alterar o ícone sem consentimento.
+
+---
+
 ## 🤝 Como Contribuir
 
 Contribuições são bem-vindas! Para colaborar:
@@ -55,21 +70,19 @@ Contribuições são bem-vindas! Para colaborar:
 ## 📞 Contato
 
 Dúvidas ou sugestões? Entre em contato com a equipe do Colégio Presbiteriano de Presidente Prudente.  
-Telefone: (18) 98116-1616
+📱 **Telefone:** (18) 98116-1616
 
 ---
 
 ## 🙏 Agradecimentos
 
-Obrigado por fazer parte deste momento especial da volta às aulas! Que este cartão ajude a deixar o retorno mais leve e animado para todos os alunos! 🎈🎓
-
----
+Obrigado por fazer parte deste momento especial da volta às aulas!  
+Que este cartão ajude a deixar o retorno mais leve e animado para todos os alunos! 🎈🎓
 
 ---
 
 ## 💼 Developed By
 
 © 2025 **Diego Lima de Oliveira**  
-Software Engineer | Web Developer  
-Email: [diego.dromer@hotmail.com](mailto:diego.dromer@hotmail.com)  
-
+*Software Engineer | Web Developer*  
+📧 [diego.dromer@hotmail.com](mailto:diego.dromer@hotmail.com)
