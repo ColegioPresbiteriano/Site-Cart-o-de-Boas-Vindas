@@ -54,7 +54,8 @@ Contribuições são bem-vindas! Para colaborar:
 
 ## 📞 Contato
 
-Dúvidas ou sugestões? Entre em contato com a equipe do Colégio Presbiteriano de Presidente Prudente.
+Dúvidas ou sugestões? Entre em contato com a equipe do Colégio Presbiteriano de Presidente Prudente.  
+Telefone: (18) 98116-1616
 
 ---
 
