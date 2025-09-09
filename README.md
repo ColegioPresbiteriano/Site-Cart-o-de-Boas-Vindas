@@ -64,7 +64,11 @@ Obrigado por fazer parte deste momento especial da volta às aulas! Que este car
 
 ---
 
-### Desenvolvedor
+---
 
-Feito com ❤️ por **Diego Lima de Oliveira**  
-✉️ Email: [diego.dromer@hotmail.com](mailto:diego.dromer@hotmail.com)
+## 💼 Developed By
+
+© 2025 **Diego Lima de Oliveira**  
+Software Engineer | Web Developer  
+Email: [diego.dromer@hotmail.com](mailto:diego.dromer@hotmail.com)  
+
