@@ -14,7 +14,8 @@ Este site foi desenvolvido para tornar a retomada das aulas ainda mais especial,
 ## 🖼️ Capa do site
 
 <p align="center">
-  <a href="https://volta-as-aulas-colegio-presbiteriano.netlify.app/">
+    <a href="https://volta-as-aulas-colegio-presbiteriano.netlify.app/"
+     target="_blank" rel="noopener noreferrer">
     <img src="https://github.com/user-attachments/assets/d0fbf052-8707-4d7b-9301-82b5dab2c71b" alt="Tela inicial" width="900">
   </a><br>
   <sub>⤴ Clique na imagem para abrir o site</sub>
