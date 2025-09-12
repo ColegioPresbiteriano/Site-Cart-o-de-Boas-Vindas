@@ -1,6 +1,6 @@
 # 🎒 Volta às Aulas - Cartão de Boas-Vindas
 
-Este é o site oficial do **Cartão de Boas-Vindas** do Colégio Presbiteriano de Presidente Prudente, criado especialmente para celebrar a volta às aulas dos alunos com muita alegria e motivação! 🎉📚
+Este é o site oficial do **Cartão de Boas-Vindas** do Colégio Presbiteriano de Presidente Prudente-SP, criado especialmente para celebrar a volta às aulas dos alunos com muita alegria e motivação! 🎉📚
 
 ---
 
@@ -11,10 +11,23 @@ Este site foi desenvolvido para tornar a retomada das aulas ainda mais especial,
 
 ---
 
-## 🌐 Acesse o Site
+## 🖼️ Capa do site
 
-Confira o cartão de boas-vindas online, hospedado na Netlify:  
-👉 [https://volta-as-aulas-colegio-presbiteriano.netlify.app/](https://volta-as-aulas-colegio-presbiteriano.netlify.app/)
+<p align="center">
+    <a href="https://volta-as-aulas-colegio-presbiteriano.netlify.app/"
+     target="_blank" rel="noopener noreferrer">
+    <img src="https://github.com/user-attachments/assets/d0fbf052-8707-4d7b-9301-82b5dab2c71b" alt="Tela inicial" width="900">
+  </a><br>
+  <sub>⤴ Clique na imagem para abrir o site</sub>
+</p>
+
+
+---
+
+## 🌐 Capa do site
+
+[![Capa do site — Volta às Aulas](assets/capa-site.png)](https://volta-as-aulas-colegio-presbiteriano.netlify.app/)
+
 
 ---
 
