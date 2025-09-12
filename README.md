@@ -1,6 +1,6 @@
 # 🎒 Volta às Aulas - Cartão de Boas-Vindas
 
-Este é o site oficial do **Cartão de Boas-Vindas** do Colégio Presbiteriano de Presidente Prudente, criado especialmente para celebrar a volta às aulas dos alunos com muita alegria e motivação! 🎉📚
+Este é o site oficial do **Cartão de Boas-Vindas** do Colégio Presbiteriano de Presidente Prudente-SP, criado especialmente para celebrar a volta às aulas dos alunos com muita alegria e motivação! 🎉📚
 
 ---
 
